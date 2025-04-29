@@ -30,11 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=pastel" />
 </p>
 
----
 
-### 🌷 Thanks for stopping by!
 
-<p align="center">
-  ☁️ Wishing you a lovely day! ☁️<br>
-  Don’t forget to ⭐ or follow if you like my page 🐥
-</p>
+
